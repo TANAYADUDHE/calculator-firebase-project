@@ -1,1 +1,1 @@
-Calculator firebase project.
+This is the Calculator firebase project.
